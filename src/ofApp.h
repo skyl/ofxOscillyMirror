@@ -36,4 +36,7 @@ public:
     vector <float> right;
     vector <float> mono;
 
+    bool toggle0;
+    bool toggle1;
+    bool toggle2;
 };

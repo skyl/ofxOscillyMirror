@@ -3,5 +3,4 @@ addons.make
 bin
 config.make
 obj
-*.xcodeproj
 *.plist
