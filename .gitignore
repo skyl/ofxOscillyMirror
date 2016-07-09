@@ -1,5 +1,4 @@
 Makefile
-Project.xcconfig
 addons.make
 bin
 config.make
